@@ -5,4 +5,7 @@ public class Main {
         System.out.println("Paul Mara");
         System.out.println("Rafael Pimentel");
     }
+    public void branchfunction(){
+        System.out.println("Branch-RafaelPimentel");
+    }
 }
