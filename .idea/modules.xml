@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/edu.wpi.cs3733d18.team4.empty-project-2.iml" filepath="$PROJECT_DIR$/.idea/modules/edu.wpi.cs3733d18.team4.empty-project-2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/edu.wpi.cs3733d18.team4.empty-project-2.integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/edu.wpi.cs3733d18.team4.empty-project-2.integrationTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/edu.wpi.cs3733d18.team4.empty-project-2.main.iml" filepath="$PROJECT_DIR$/.idea/modules/edu.wpi.cs3733d18.team4.empty-project-2.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/edu.wpi.cs3733d18.team4.empty-project-2.test.iml" filepath="$PROJECT_DIR$/.idea/modules/edu.wpi.cs3733d18.team4.empty-project-2.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/edu.wpi.cs3733d18.team4.Github-Practice.iml" filepath="$PROJECT_DIR$/.idea/modules/edu.wpi.cs3733d18.team4.Github-Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/edu.wpi.cs3733d18.team4.Github-Practice.integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/edu.wpi.cs3733d18.team4.Github-Practice.integrationTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/edu.wpi.cs3733d18.team4.Github-Practice.main.iml" filepath="$PROJECT_DIR$/.idea/modules/edu.wpi.cs3733d18.team4.Github-Practice.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/edu.wpi.cs3733d18.team4.Github-Practice.test.iml" filepath="$PROJECT_DIR$/.idea/modules/edu.wpi.cs3733d18.team4.Github-Practice.test.iml" />
     </modules>
   </component>
 </project>
